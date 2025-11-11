@@ -9,3 +9,4 @@ while True:
     con = input("TIẾP TỤC (y), THOÁT THÌ NHẤN NÚT BẤT KỲ: ")
     if con.lower() != "y":
         break  # ✅ hợp lệ vì nằm trong while
+      # code hợp lệ
